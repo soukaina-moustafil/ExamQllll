@@ -39,7 +39,7 @@ Calcul calcul;
 //		fail("Not yet implemented");
 //	}
 	
-	//commit
+	//commit yes
 	
 	@Test 
 	void testCalculNote()
