@@ -39,6 +39,8 @@ Calcul calcul;
 //		fail("Not yet implemented");
 //	}
 	
+	//commit
+	
 	@Test 
 	void testCalculNote()
 	{
