@@ -40,7 +40,7 @@ Calcul calcul;
 //	}
 	
     
-	//okok
+	//okokk
 	@Test 
 	void testCalculNote()
 	{
